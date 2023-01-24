@@ -6,7 +6,7 @@
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
 
-Site desenvolvido para divulgar o trabalho da minha namorada, esse site consiste em apresentar o trabalho dela de aulo de reforço, inicialmente falando sobre ele e sua experiência e logo após mostrando mais sobre seu serviço e uma parte de contato para caso o usuário tenha interesse de comprar o serviço. <br><br>
+Site desenvolvido para divulgar o trabalho da minha namorada, esse site consiste em apresentar o trabalho dela de aulo de reforço, inicialmente falando sobre ela e sua experiência, logo após tem uma seção que mostra mais sobre seu serviço e uma parte de contato para caso o usuário tenha interesse no trabalho dela. <br><br>
 <strong>Acesse o site e aproveite: https://aula-de-reforco-spa.vercel.app </strong>
 <br>
 <br>
