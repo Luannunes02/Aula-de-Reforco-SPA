@@ -14,7 +14,7 @@ export default function Card() {
         <CardContainer>
             <p>
                 <Img1 src={Matemica} alt="Matématica" />
-                <span>MATÉMATICA</span>
+                <span>MATEMÁTICA</span>
             </p>
             <p>
                 <Img1 src={Portuges} alt="Matématica" />
@@ -30,7 +30,7 @@ export default function Card() {
             </p>
             <p>
                 <Img1 src={Geografia} alt="Matématica" />
-                <span>GEOGRAFIAA</span>
+                <span>GEOGRAFIA</span>
             </p>
             <p>
                 <Img1 src={Ciencias} alt="Matématica" />
