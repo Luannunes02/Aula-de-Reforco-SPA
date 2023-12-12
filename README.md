@@ -74,3 +74,32 @@ A compilação é minificada e os nomes dos arquivos incluem os hashes.\
 Seu app está pronto para deploy!
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![#23114-Fase-1---Criação-Anúncios-digitais_Banner-miolo--veículo--Jn-Já--320x120](https://github.com/Luannunes02/Aula-de-Reforco-SPA/assets/105875989/d6123e7f-85fb-40af-a532-c31ba0c090dd)
+![#23114-Fase-1---Criação-Anúncios-digitais_Banner-miolo--veículo--Jn-Já--700x800x](https://github.com/Luannunes02/Aula-de-Reforco-SPA/assets/105875989/3432409b-04ae-41c8-a2a8-8fc391a5ff59)
+![#23114-Fase-1---Criação-Anúncios-digitais_Banner-topo--veículo--Jn-Já--850x90px](https://github.com/Luannunes02/Aula-de-Reforco-SPA/assets/105875989/2297424e-563a-4243-9ad7-6f3747b2bb38)
+![#23114-Fase-1---Criação-Anúncios-digitais_Banner-topo--veículo--Jn-Já--320x150px](https://github.com/Luannunes02/Aula-de-Reforco-SPA/assets/105875989/91042a98-8339-42af-bcaf-bc163730767c)
+![#23114-Fase-1---Criação-Anúncios-digitais_Banner-lateral--veículo--Jn-Já--250x250](https://github.com/Luannunes02/Aula-de-Reforco-SPA/assets/105875989/27354a98-0e99-44d1-a249-36fb8858d0ea)
+
+
+
+
+
